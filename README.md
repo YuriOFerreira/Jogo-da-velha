@@ -28,6 +28,4 @@
 
 ### Nome dos participantes
 
-- Lucas Aguiar <br>
-  <br>
-  Made with ♥ by Lucas Aguiar :wave: [Get in touch!](https://www.linkedin.com/in/lucasaguiiar)
+- Yuri Ovelar Ferreira
